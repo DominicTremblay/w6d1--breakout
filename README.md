@@ -1,10 +1,6 @@
 # W6D1 - Breakout
 
-## React Boilerplate
-
-- Go over the boilerplate
-- [React Simple Boilerplate]()
-- Create React App
+## Coding the Quote List App
 
 ## JSX Syntax
 
